@@ -5,7 +5,9 @@ Ans- Multi-Factor Authentication (MFA)
 Ans- AmazonDynamoDBReadOnlyAccess
 
 3. What are valid MFA or Multi-factor Authentication options available to use on AWS? Select all that apply.
-Ans- Gemalto Token, yubiKey, Google Authenticator
+Ans- Gemalto Token
+     yubiKey
+     Google Authenticator
 
 4. What format is an Identity and Access Management policy document in?
 Ans- JSON
