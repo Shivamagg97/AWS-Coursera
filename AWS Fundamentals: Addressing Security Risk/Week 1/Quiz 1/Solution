@@ -1,0 +1,17 @@
+1. What security mechanism can add an extra layer of protection to your AWS account in addition to a username password combination?
+Ans- Multi-Factor Authentication (MFA)
+
+2. If a user wanted to read from a DynamoDB table what policy would you attach to their user profile?
+Ans- AmazonDynamoDBReadOnlyAccess
+
+3. What are valid MFA or Multi-factor Authentication options available to use on AWS? Select all that apply.
+Ans- Gemalto Token, yubiKey, Google Authenticator
+
+4. What format is an Identity and Access Management policy document in?
+Ans- JSON
+
+5. Which are valid options for interacting with your AWS account? Select all that apply.
+Ans- Command Line Interface
+     Software Developement Kit
+     Application Programming Interface
+     AWS Console
