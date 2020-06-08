@@ -1,0 +1,17 @@
+1. Which solution below grants AWS Management Console access to an DevOps engineer?
+   Create IAM user for the engineer and associate relevant IAM managed policies to this IAM user
+
+2. Which of these IAM policies cannot be updated by you?
+    Managed Policy
+
+3. Which of these services can establish a trusted relationship between your corporate Active Directory and AWS?
+    AD Connector
+
+4. What is the main difference between Cognito User Pool and Cognito Identity Pool?
+    Identity Pools provide temporary AWS credentials
+
+5. How do you audit IAM user’s access to your AWS accounts and resources?
+    Using CloudTrail to look at the API call and timestamp
+
+    
+
