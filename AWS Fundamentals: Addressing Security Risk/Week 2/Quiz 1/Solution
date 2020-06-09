@@ -1,0 +1,14 @@
+1. Which statement is true?
+
+
+2. What is a Security Group?
+    
+
+3. How many types of VPC Endpoints are available?
+   Two: Gateway Enpoint & Interface Endpoint
+
+4. Which of these AWS resources cannot be monitored using VPC Flow logs?
+   A Network Gateway Attached to VPC
+
+5. You can route traffic to a NAT Gateway through:
+    None of These
