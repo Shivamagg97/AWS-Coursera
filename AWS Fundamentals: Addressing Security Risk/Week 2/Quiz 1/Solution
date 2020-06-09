@@ -1,8 +1,8 @@
 1. Which statement is true?
-
+   Traffic within an Availability Zone, or between Availability Zones in all Regions are routed over the AWS private global network
 
 2. What is a Security Group?
-    
+   Act as a firewall for associated Amazon EC2 Instances, controlling both inbound and outbound traffic at the instance level    
 
 3. How many types of VPC Endpoints are available?
    Two: Gateway Enpoint & Interface Endpoint
