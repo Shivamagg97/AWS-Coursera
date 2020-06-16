@@ -1,1 +1,16 @@
+1. What AWS Services keeps a record of who is interacting with your AWS Account?
+     AWS Cloudtrail
 
+2. Which of the following are monitoring and logging services available on AWS? Select all that apply.
+    AWS Cloudwatch
+    Amazon Config
+
+3. Which of the following sections from Trusted Advisor exists under the Well-Architected Framework as a pillar as well?
+    Security
+    
+4. If you wanted to accomplish threat detection in your AWS Infrastructure, which of the following services would you use?
+    AWS GuardDuty
+
+5. Which AWS Service has an optional agent that can be deployed to EC2 instances to perform a security assessment?
+    Amazon Inspector
+  
