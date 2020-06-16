@@ -1,1 +1,8 @@
+1. What requirement must you adhere to in order to deploy an AWS CloudHSM?
+  Provision the HSM in a VPC
 
+2. What AWS KMS keys are used to encrypt and decrypt data in AWS?
+  Customer Master Keys
+  
+3. How much data can you encrypt/decrypt using an Customer Master Key?
+    Upto 4 Kb
